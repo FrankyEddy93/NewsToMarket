@@ -1,5 +1,9 @@
 # Proposal
-## Synopsis:
+## Motivation:
+ *	The basic motivation of this project is to apply machine learning techniques in real life problem to provide insights, and make a good data-oriented decision based on predictions given by the machine learning algorithm
+ *	Make use of external data to help predict the market data and its movements
+ *	Combine the concepts of machine learning and text analytics to gain better insights both from market data and text data (i.e. News and Forums) 
+ *	Expected predcition results are the stock movements in the near future with the input of past and current data
 
 ## Objective:
 
